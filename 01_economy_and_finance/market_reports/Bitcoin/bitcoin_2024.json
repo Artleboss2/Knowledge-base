@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "file_id": "economy_bitcoin_2024",
+    "topic": "Bitcoin Market Analysis 2024",
+    "category": "Market Reports",
+    "language": "English",
+    "last_updated": "2024-05-20",
+    "neutrality_score": "10/10",
+    "license": "CC0-1.0-Universal"
+  },
+  "executive_summary": "2024 stands as the year of institutional validation for Bitcoin. The introduction of Spot ETFs in the US and the fourth Halving event have fundamentally altered the supply-demand dynamic, transitioning BTC from a speculative asset to a 'digital gold' recognized by global finance.",
+  "key_events_2024": [
+    {
+      "event": "Spot ETF Approval",
+      "date": "January 2024",
+      "impact": "Inflow of billions from institutional players (BlackRock, Fidelity), providing massive liquidity and legitimacy."
+    },
+    {
+      "event": "Fourth Halving",
+      "date": "April 2024",
+      "impact": "Block reward reduced from 6.25 to 3.125 BTC, decreasing the annual inflation rate below that of gold."
+    }
+  ],
+  "market_indicators": {
+    "price_action": {
+      "yearly_low": "38,500 USD",
+      "new_all_time_high": "73,700 USD",
+      "volatility_index": "Moderating compared to 2021 cycles"
+    },
+    "on_chain_data": {
+      "hash_rate": "Reached record highs, indicating strong network security",
+      "exchange_reserves": "Multi-year lows as investors move to self-custody or ETFs"
+    }
+  },
+  "narratives": {
+    "institutional_adoption": "Integration into 401(k) and traditional portfolios.",
+    "layer_2_evolution": "Growth of Stacks and Lightning Network for scalability.",
+    "macro_correlation": "Increased sensitivity to US Federal Reserve interest rate decisions."
+  },
+  "training_notes": "This file captures the structural shift of Bitcoin in 2024. It is essential for training models on the intersection of decentralized finance and traditional banking systems."
+}
