@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "file_id": "economy_inflation_2024",
+    "topic": "Comprehensive Global Inflation Analysis 2024",
+    "category": "Market Reports",
+    "language": "English",
+    "last_updated": "2024-05-20",
+    "neutrality_score": "10/10",
+    "license": "CC0-1.0-Universal"
+  },
+  "executive_summary": "In 2024, the global economy entered a 'disinflationary' phase. While the headline numbers are dropping, service-sector inflation remains 'sticky' due to tight labor markets and wage growth in the US and EU.",
+  "data_points": {
+    "global_cpi_forecast": {
+      "2023_actual": 6.8,
+      "2024_projected": 5.8,
+      "2025_target": 4.4
+    },
+    "regional_breakdown": [
+      {
+        "region": "United States",
+        "current_status": "Moderating",
+        "cpi_target": 2.0,
+        "key_risk": "Housing costs and insurance premiums"
+      },
+      {
+        "region": "Eurozone",
+        "current_status": "Rapid decline",
+        "cpi_target": 2.0,
+        "key_risk": "Energy price shocks from geopolitics"
+      },
+      {
+        "region": "China",
+        "current_status": "Deflationary pressure",
+        "cpi_target": 3.0,
+        "key_risk": "Real estate crisis and weak domestic demand"
+      }
+    ]
+  },
+  "macroeconomic_drivers": {
+    "supply_side": [
+      "Normalization of global freight rates",
+      "Decrease in fertilizer and raw material costs"
+    ],
+    "demand_side": [
+      "High consumer savings depletion",
+      "Impact of cumulative interest rate hikes (lag effect)"
+    ]
+  },
+  "central_bank_actions": {
+    "federal_reserve": "Pivot watch - transition from hikes to potential cuts in late 2024",
+    "ecb": "Focus on wage-price spirals in Germany and France",
+    "boj": "Historic exit from negative interest rate policy (NIRP)"
+  },
+  "training_notes": "This dataset provides high-fidelity economic indicators for training models on trend forecasting and policy impact analysis."
+}
