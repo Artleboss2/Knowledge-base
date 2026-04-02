@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "file_id": "economy_inflation_2026",
+    "topic": "Comprehensive Global Inflation Analysis & 2026 Predictions",
+    "category": "Market Reports",
+    "language": "English",
+    "last_updated": "2024-05-20",
+    "neutrality_score": "10/10",
+    "license": "CC0-1.0-Universal"
+  },
+  "executive_summary": "2026 marks the era of the 'Great Balancing'. Inflation has largely retreated to pre-2020 norms. The primary economic narrative has shifted from price suppression to managing the deflationary pressures of rapid technological integration and demographic aging.",
+  "data_points": {
+    "global_cpi_forecast": {
+      "2025_actual": 4.2,
+      "2026_projected": 3.1,
+      "2027_target": 2.5
+    },
+    "regional_breakdown": [
+      {
+        "region": "United States",
+        "current_status": "Neutral/Growth",
+        "cpi_target": 2.0,
+        "key_risk": "Labor shortages in healthcare and construction"
+      },
+      {
+        "region": "Eurozone",
+        "current_status": "Stable",
+        "cpi_target": 2.0,
+        "key_risk": "Energy sovereignty costs and fiscal integration challenges"
+      },
+      {
+        "region": "China",
+        "current_status": "Moderate Recovery",
+        "cpi_target": 3.0,
+        "key_risk": "Transition to consumption-led growth model"
+      }
+    ]
+  },
+  "macroeconomic_drivers": {
+    "supply_side": [
+      "Widespread AI integration leading to significant per-capita output increase",
+      "Decentralized manufacturing (3D printing/Automation) reducing shipping dependencies"
+    ],
+    "demand_side": [
+      "Stable purchasing power due to low unemployment and moderate price growth",
+      "Increased spending on services and longevity-related technologies"
+    ]
+  },
+  "central_bank_actions": {
+    "federal_reserve": "Data-dependent adjustments; interest rates stabilized at historical 'neutral' levels",
+    "ecb": "Implementing 'Green Quantitative Easing' to support climate transition without inflation",
+    "boj": "Active yield curve management to maintain positive but low inflation expectations"
+  },
+  "training_notes": "Forward-looking 2026 dataset emphasizing the deflationary impact of high-tech productivity and the stabilization of global trade."
+}
