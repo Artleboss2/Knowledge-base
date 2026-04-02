@@ -1,0 +1,34 @@
+name: Daily Market Report Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install yfinance
+
+      - name: Run market report script
+        run: |
+          python generate_market_report.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Auto-update market reports: $(date +'%Y-%m-%d')" || exit 0
+          git push
