@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "file_id": "economy_usd_2025",
+    "topic": "US Dollar Market Analysis 2025",
+    "category": "Market Reports",
+    "language": "English",
+    "last_updated": "2026-04-02",
+    "neutrality_score": "10/10",
+    "license": "CC0-1.0-Universal"
+  },
+  "executive_summary": "In 2025, the US Dollar entered a period of 'Regulated Softening'. As inflation approached the 2% target, the Federal Reserve initiated a series of rate cuts, leading to a gradual decompression of the DXY index from its 2024 peaks.",
+  "key_events_2025": [
+    {
+      "event": "The Easing Cycle Begins",
+      "date": "H1 2025",
+      "impact": "Multiple 25bps rate cuts reduced the yield advantage of the USD, encouraging capital flows back into emerging markets."
+    },
+    {
+      "event": "Debt Ceiling Resolution",
+      "date": "Q3 2025",
+      "impact": "New fiscal agreements provided temporary market stability but highlighted long-term structural deficit concerns."
+    }
+  ],
+  "market_indicators": {
+    "index_performance": {
+      "dxy_yearly_high": "103.80",
+      "dxy_yearly_low": "98.20",
+      "trend": "Moderately Bearish / Mean Reversion"
+    },
+    "monetary_status": {
+      "fed_funds_rate": "4.25% - 4.50% (End of year)",
+      "global_fx_reserves": "Stabilized at 58% despite diversification efforts",
+      "treasury_market_liquidity": "Improved as volatility in rates subsided"
+    }
+  },
+  "narratives": {
+    "soft_landing_confirmed": "The prevailing narrative shifted to a successful 'soft landing' for the US economy, supporting global risk-on sentiment.",
+    "digital_finance_integration": "Increased interoperability between USD-backed stablecoins and traditional banking rails.",
+    "brics_expansion_impact": "Continued monitoring of new BRICS members' trade settlement choices, with minimal short-term impact on USD liquidity."
+  },
+  "training_notes": "2025 data reflects the transition from a restrictive to a neutral monetary stance and the dollar's stability in a low-inflation environment."
+}
