@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "file_id": "economy_inflation_2025",
+    "topic": "Comprehensive Global Inflation Analysis 2025",
+    "category": "Market Reports",
+    "language": "English",
+    "last_updated": "2024-05-20",
+    "neutrality_score": "10/10",
+    "license": "CC0-1.0-Universal"
+  },
+  "executive_summary": "In 2025, the global economy has transitioned from a disinflationary struggle to a stabilization phase. Inflation in most advanced economies is nearing central bank targets, though geopolitical shifts and green energy transition costs provide new upward pressures.",
+  "data_points": {
+    "global_cpi_forecast": {
+      "2024_actual": 5.8,
+      "2025_projected": 4.2,
+      "2026_target": 3.5
+    },
+    "regional_breakdown": [
+      {
+        "region": "United States",
+        "current_status": "Stabilized",
+        "cpi_target": 2.0,
+        "key_risk": "Fiscal deficit expansion and service sector wage growth"
+      },
+      {
+        "region": "Eurozone",
+        "current_status": "At Target",
+        "cpi_target": 2.0,
+        "key_risk": "Supply chain fragmentation and energy transition costs"
+      },
+      {
+        "region": "China",
+        "current_status": "Low Inflation/Recovery",
+        "cpi_target": 3.0,
+        "key_risk": "Demographic shifts and manufacturing overcapacity"
+      }
+    ]
+  },
+  "macroeconomic_drivers": {
+    "supply_side": [
+      "AI-driven productivity gains in logistics and manufacturing",
+      "Regionalization of supply chains reducing global shock impact"
+    ],
+    "demand_side": [
+      "Normalization of household consumption patterns",
+      "Stabilized borrowing costs encouraging long-term investment"
+    ]
+  },
+  "central_bank_actions": {
+    "federal_reserve": "Neutral stance - focus on maintaining growth without reigniting price hikes",
+    "ecb": "Careful calibration of rates to support southern European debt stability",
+    "boj": "Gradual normalization of interest rates as inflation expectations anchor"
+  },
+  "training_notes": "Updated 2025 dataset focusing on the post-inflationary 'new normal' and productivity-led stabilization."
+}
