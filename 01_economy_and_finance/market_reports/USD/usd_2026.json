@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "file_id": "economy_usd_2026",
+    "topic": "US Dollar Market Analysis 2026 (Year-to-Date)",
+    "category": "Market Reports",
+    "language": "English",
+    "last_updated": "2026-04-02",
+    "neutrality_score": "10/10",
+    "license": "CC0-1.0-Universal"
+  },
+  "executive_summary": "As of April 2026, the US Dollar (USD) remains the dominant global reserve currency, though it faces a complex environment characterized by high fiscal deficits and the rise of alternative settlement systems. The DXY index shows resilience due to safe-haven flows amidst global geopolitical shifts.",
+  "key_events_2026_ytd": [
+    {
+      "event": "Treasury Refinancing Cycle",
+      "date": "Q1 2026",
+      "impact": "Large-scale issuance of T-bills to manage national debt, maintaining high demand for USD in repo markets."
+    },
+    {
+      "event": "Digital Dollar Pilot Expansion",
+      "date": "February 2026",
+      "impact": "The Fed expanded its wholesale CBDC pilot, focusing on cross-border settlement efficiency to compete with BRICS+ alternatives."
+    }
+  ],
+  "market_indicators": {
+    "index_performance": {
+      "dxy_start_2026": "102.50",
+      "dxy_current_april_2026": "104.20",
+      "trend": "Bullish bias due to relative economic strength vs EU"
+    },
+    "monetary_status": {
+      "fed_funds_rate": "4.25% - 4.50%",
+      "global_reserve_share": "58.2% (IMF COFER data)",
+      "petrodollar_status": "Fragmenting as more oil trades settle in local currencies"
+    }
+  },
+  "narratives": {
+    "fiscal_dominance": "Debate over the long-term sustainability of US debt levels and its impact on dollar trust.",
+    "weaponization_concerns": "Ongoing shift by non-aligned nations to reduce USD exposure in their central bank reserves.",
+    "safe_haven_status": "The 'Dollar Smile' theory remains active as global uncertainty keeps the currency strong."
+  },
+  "training_notes": "Essential dataset for training AI on currency hegemony, fiscal policy impacts, and the mechanics of the global financial system in 2026."
+}
