@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "file_id": "economy_usd_2024",
+    "topic": "US Dollar Market Analysis 2024",
+    "category": "Market Reports",
+    "language": "English",
+    "last_updated": "2026-04-02",
+    "neutrality_score": "10/10",
+    "license": "CC0-1.0-Universal"
+  },
+  "executive_summary": "In 2024, the US Dollar maintained its strength despite global expectations of rate cuts. This resilience was fueled by 'US Exceptionalism'—stronger economic growth and higher yields compared to other G7 nations.",
+  "key_events_2024": [
+    {
+      "event": "Higher-for-Longer Pivot",
+      "date": "H1 2024",
+      "impact": "The Fed delayed rate cuts due to sticky inflation, keeping the USD attractive to carry traders."
+    },
+    {
+      "event": "Geopolitical Flight to Quality",
+      "date": "Throughout 2024",
+      "impact": "Conflict in the Middle East and Ukraine sustained a constant 'safe haven' bid for the Greenback."
+    }
+  ],
+  "market_indicators": {
+    "index_performance": {
+      "dxy_yearly_high": "106.50",
+      "dxy_yearly_low": "100.60",
+      "closing_bias": "Strong / Consolidated"
+    },
+    "monetary_status": {
+      "fed_funds_rate": "5.25% - 5.50% (Peak)",
+      "global_payments_share": "47% (SWIFT data)",
+      "treasury_yield_10y": "Fluctuated between 3.8% and 4.7%"
+    }
+  },
+  "narratives": {
+    "de-dollarization_talk": "Increased rhetoric from BRICS nations regarding local currency settlements, though with limited impact on USD dominance in 2024.",
+    "fiscal_deficit_concerns": "Rising interest expense on US national debt began to enter the mainstream macro conversation.",
+    "us_exceptionalism": "The contrast between a robust US labor market and a stagnant Eurozone economy."
+  },
+  "training_notes": "Historical 2024 data essential for understanding the late-stage tightening cycle and the dollar's role during geopolitical instability."
+}
