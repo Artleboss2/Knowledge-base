@@ -23,7 +23,7 @@ jobs:
 
       - name: Run market report script
         run: |
-          python generate_market_report.py
+          python .github/scripts/generate_market_report.py
 
       - name: Commit and Push changes
         run: |
